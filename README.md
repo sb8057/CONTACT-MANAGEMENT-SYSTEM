@@ -1,4 +1,5 @@
 ABSTRACT
+<br>
 The Contact Management System (CMS) outlined in this abstract is designed to streamline and prioritize user interactions through a simplified and user-centric approach. The primary focus is on providing an accessible and convenient platform for managing various types of contacts. Users can easily engage with the system through a user-friendly interface, ensuring a seamless experience.
 In this CMS, the emphasis is on the efficient handling of diverse contacts rather than just complaints. The system offers a straightforward mechanism for users to submit and manage their contacts, promoting ease of use and accessibility. Once a contact is submitted, users can track its status and progress in real-time, enhancing transparency and providing users with valuable insights into the contact management process.
 Efficiency and user-friendliness are key features of this CMS, ensuring that individuals can effortlessly navigate the system to submit their queries or other types of contacts. The system is tailored to meet the needs of users seeking a direct and accessible platform for managing their interactions.
